@@ -1,5 +1,5 @@
 # multi-ai-agent-shopping-assistant
-AI system where specialized agents handle requirement extraction, product discovery, filtering, ranking, and recommendation generation.
+AI system where specialized agents understand natural language shopping requests, extracts user requirements, searches products, and generates personalized recommendations using a collaborative agent architecture.
 
 LLM powered shopping assistant built with Python, Ollama, Qwen2.5, and agent orchestration that understands 
 
@@ -10,10 +10,10 @@ LLM powered shopping assistant built with Python, Ollama, Qwen2.5, and agent orc
 
 User can ask questions as shown below
 
-* Show me gaming laptops under ₹80,000
-* Find mobiles with good camera under ₹40,000
-* Show me 55-inch OLED TVs
-* Recommend educational toys for a 6-year-old
+* Show me gaming laptops under 80k
+* Find mobiles with good camera under 40k
+* Show me 55inch OLED TVs
+* Recommend educational toys for a 6 years old
 * Find products with more than 20% discount
 * Show top-rated headphones with noise cancellation
 * Compare iPhone 15 vs Samsung Galaxy S24
